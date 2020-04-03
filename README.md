@@ -1,4 +1,4 @@
-# shouty
+# shouty - BDD with Cucumber-Java
 
 ### Framework will be developed on top of :
 
